@@ -55,16 +55,16 @@ ChowChawgas: 800m
 - [Docs Oracle](https://docs.oracle.com/javase/8/docs/api/java/time/temporal/ChronoField.html)
 
 
-- **Maiores dificuldades no código:**
+## **Maiores dificuldades no código:**
 Criar a interface, pois ainda não utilizei do desenvolvimento da interface do Java, mas foi a unica forma que consegui pensar em como realizar a entrega do projeto, a parte de data, por utilizar muitas bibliotecas voltadas ao resultado que eu desejava, criações do POO e dúvidas sobre como realizar alguns calculos do final de semana. 
 
-- **Melhorias futuras:**
- * Frontend, poderia melhorar a interface utilizando uma linguagem mais voltada a interface gráfica, como React ou Typescript
- * Integrar ao banco de dados, para escalonamento do projeto, utilizando python para as analises e SQL para criação do banco.
- * Mudar de linguagem, para abrir novas possibilidades de resoluções.
- * Fazer o projeto em versão mobile, pois a maioria das pessoas atualmente utilizam aplicativos no celular do que no computador.
+## **Melhorias futuras:**
+    - Frontend, poderia melhorar a interface utilizando uma linguagem mais voltada a interface gráfica, como React ou Typescript
+    - Integrar ao banco de dados, para escalonamento do projeto, utilizando python para as analises e SQL para criação do banco.
+    - Mudar de linguagem, para abrir novas possibilidades de resoluções.
+    - Fazer o projeto em versão mobile, pois a maioria das pessoas atualmente utilizam aplicativos no celular do que no computador.
 
-- **Contato:**
+## **Contato:**
   - Para dúvidas ou suporte, entre em contato pelo e-mail: [amandafj.50@gmail.com] ou crie uma issue no repositório.
 
 ---
