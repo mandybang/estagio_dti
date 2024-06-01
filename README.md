@@ -13,7 +13,8 @@ O código solicitado no desafio da DTI é um aplicativo que compara três petsho
 
 1. **Clone o repositório:**
 
-   ``` git clone https://github.com/mandybang/estagio_dti.git
+   ```
+   git clone https://github.com/mandybang/estagio_dti.git
    ```
 
 2. **Acesse o sistema:**
